@@ -1,5 +1,8 @@
-# Conductive-Knits-Database-For-Machine-Learning
-Database of conductive and non-conductive knit patterns for use in machine learning.
+# Conductive-Textiles-Database-For-Machine-Learning
+
+* Database of conductive and non-conductive knit patterns for use in machine learning.
+
+* Sequential CNN for training and testing
 
 This repository contains 40 train and 20 test images for each knit type (see Index below)
 Black and White (0 and 1) images are in train_ims and test_ims directories.
